@@ -1,4 +1,4 @@
-# memTest_vector_of_pointers_to_vector_cpp
+# Mem Test: vector of pointers to vector in cpp
 
 A simple c++ testing code for memory check of a vector of pointers to vector using valgrind. It could be used as a template for simple memory check of similar code structures. 
 
