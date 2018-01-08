@@ -4,8 +4,8 @@ A simple c++ testing code for memory check of a vector of pointers to vector usi
 
 Compile:
 
-g++ -o <exe> test_vec_mem.cpp
+g++ -o \<exe\> test_vec_mem.cpp
   
 Use:
 
-valgrind --leak-check=yes ./<exe>
+valgrind --leak-check=yes ./\<exe\>
